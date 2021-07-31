@@ -1,0 +1,2 @@
+print("kokokoko")
+a
